@@ -24,6 +24,3 @@ author:
     - label: "GitHub"
       url: "https://github.com/yourusername"
 
-# Plugins (Minimal Mistakes requirement)
-plugins:
-  - jekyll-include-cache
