@@ -1,0 +1,12 @@
+# Build output
+_site/
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+log/
+
+# Jekyll metadata
+.jekyll-metadata
