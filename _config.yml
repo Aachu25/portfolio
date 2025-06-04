@@ -1,5 +1,29 @@
 title: Rakshith Ramureddy
-logo: assets/img/datamining.jpeg
-description: MSc Business Analytics graduate with 4+ years’ experience in data analysis, stakeholder reporting, and technical support. Skilled in SQL, Power BI, Python, and government-style data governance. Delivered KPI dashboards, root cause analyses, and statutory data processing in both private and public-facing teams.
+logo: /assets/img/datamining.jpeg
+description: >
+  MSc Business Analytics graduate with 4+ years of experience in data analysis, stakeholder reporting, and technical support.
+  Proficient in SQL, Power BI, Python, and public sector data governance. Delivered KPI dashboards, root cause analyses, and statutory data reporting in cross-functional teams.
+
+# Site settings
+url: "https://rakshithramureddy.github.io" # Replace with your GitHub Pages URL
+baseurl: "" # Leave this blank unless using a project page
+
+# Theme settings
+remote_theme: mmistakes/minimal-mistakes
 show_downloads: false
-theme: jekyll-theme-hacker
+
+# Social media (optional)
+author:
+  name: "Rakshith Ramureddy"
+  avatar: /assets/img/datamining.jpeg
+  links:
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/rakshithramu/"
+    - label: "Portfolio"
+      url: "https://rakshith-ramureddy.github.io/portfolio/"
+    - label: "GitHub"
+      url: "https://github.com/yourusername"
+
+# Plugins (Minimal Mistakes requirement)
+plugins:
+  - jekyll-include-cache
