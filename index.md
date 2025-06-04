@@ -5,17 +5,26 @@ title: Rakshith Ramureddy's Portfolio
 
 # Rakshith Ramureddy
 
-## Skills
+## 💻 Technical Skills
 
-### Technical Skills
-- **Python & R Programming**
-- **PowerBI & Tableau Visualization** 
-- **SQL** 
+**Programming & Analytics:**  
+Python, R, SQL, Excel, MySQL
 
-### Non-Technical Skills
-- **Database Management** 
-- **Stakeholder Engagement** 
-- **Data Analysis** 
+**Business Intelligence & Visualization:**  
+Power BI, Tableau, Azure Analytics
+
+**Cloud & Databases:**  
+Azure, AWS (S3, Redshift, RDS, DynamoDB), Database Design
+
+**Data Science & Modeling:**  
+Machine Learning, Predictive Modeling, Statistical Analysis, ANOVA, Data Mining, Data Exploration, Data Analysis
+
+**Data Practices:**  
+Data Governance, Data Visualization
+
+---
+## 🤝 Soft Skills
+Stakeholder Management, Requirements Gathering, User Stories, Cross-functional Team Collaboration
 
 ---
 ## Education
@@ -58,13 +67,13 @@ title: Rakshith Ramureddy's Portfolio
 
 ## Volunteering
 
-- Volunteered with Spread-a-Smile, participating in school and village wall painting projects.
-- Promoted safe driving awareness at social events.
+- Volunteered with Spread-a-Smile (non-profit NGO), contributing to school and village wall painting initiatives.
+- Promoted safe driving awareness through engagement at community and social events.
 
 ---
 
 
 <div style="text-align:center; margin-top:20px;">
-    &copy; 2024 Rakshith Ramureddy
+    &copy; 2025 Rakshith Ramureddy
 </div>
 
