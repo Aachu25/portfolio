@@ -1,3 +1,10 @@
+---
+layout: default
+title: Rakshith Ramureddy's Portfolio
+---
+
+# Rakshith Ramureddy
+
 ## Skills
 
 ### Technical Skills
