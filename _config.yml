@@ -1,28 +1,36 @@
 title: Rakshith Ramureddy
-logo: /assets/img/datamining.jpeg
-description: >
+tagline: Data Analyst | MSc Business Analytics | SQL | Power BI | Python
+description: >-
   MSc Business Analytics graduate with 4+ years of experience in data analysis, stakeholder reporting, and technical support.
-  Proficient in SQL, Power BI, Python, and public sector data governance. Delivered KPI dashboards, root cause analyses, and statutory data reporting in cross-functional teams.
+  Skilled in SQL, Power BI, Python, and data governance. Delivered KPI dashboards, root cause analyses, and statutory reporting across sectors.
 
-# Site settings
-url: "https://rakshithramureddy.github.io" # Replace with your GitHub Pages URL
-baseurl: "" # Leave this blank unless using a project page
+url: "https://rakshithramu.github.io"
+baseurl: "/portfolio" # Must match your repository name
 
-# Theme settings
-remote_theme: mmistakes/minimal-mistakes
-show_downloads: false
+lang: en
+timezone: Europe/London
+theme: jekyll-theme-chirpy
 
-# Social media (optional)
-author:
+avatar: /assets/img/datamining.jpeg
+social:
   name: "Rakshith Ramureddy"
-  avatar: /assets/img/datamining.jpeg
+  email: rakshithreddy2012@gmail.com
   links:
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/rakshithramu/"
-    - label: "Portfolio"
-      url: "https://rakshith-ramureddy.github.io/portfolio/"
-    - label: "GitHub"
-      url: "https://github.com/yourusername"
+    - https://www.linkedin.com/in/rakshithramu/
+    - https://rakshith-ramureddy.github.io/portfolio/
+    - https://github.com/rakshithramu
 
+#google_analytics:
+#  id: "" # Optional – Add your GA Tracking ID
+
+theme_mode: auto # or 'light' or 'dark'
+
+# Plugins required by Chirpy
 plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-include-cache
