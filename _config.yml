@@ -9,7 +9,7 @@ baseurl: "/portfolio" # Must match your repository name
 
 lang: en
 timezone: Europe/London
-theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 avatar: /assets/img/datamining.jpeg
 social:
